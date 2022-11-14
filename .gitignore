@@ -63,6 +63,8 @@ typings/
 .next
 
 # lock files
+/client/package-lock.json
+/server/package-lock.json
 package-lock.json
 yarn.lock
 
